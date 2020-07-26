@@ -15,7 +15,7 @@ sidebar:
     email: soochem23@gmail.com
     phone: 
     website: soochem.github.io #do not add http://
-    linkedin: soochem
+    linkedin:
     github: soochem
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -53,7 +53,7 @@ career-profile:
       - Machine Learning DevOps
 education:
     - degree: BSc in Data Science (Self-designed Transdisciplinary Studies)
-      university: Sungkyunkwan University (SKKU)
+      university: Sungkyunkwan University
       time: Mar. 2014 – Feb. 2019
       # details: |
       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -67,8 +67,8 @@ education:
       university: Sungkyunkwan University
       time: Mar. 2014 – Feb. 2019
       # details: |
-    - program: Advanced Algorithms
-      company: Samsung SDS
+    - degree: Advanced Algorithms
+      university: Samsung SDS
       time: July 2019 – Aug. 2019
       details: |
         - Solving problems about graph, mathematics, dynamic programming, geometry
@@ -97,6 +97,7 @@ experiences:
       company: Bio-nanostructure Lab, SKKU
       details: |
         - Assisted Immunofluorescence Imaging with the techniques of ExM (Expansion Microscopy)
+
 projects:
     title: Projects
     # intro: >
@@ -105,10 +106,10 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: "IT Trend Analysis using Topic Modeling and Clustering"
-        link: ""
+        # link: ""
         tagline: |
-          - Topic Modeling and Keyword Clustering with Scientific Articles to Detect Trends in IT Topics
-          - Text preprocessing, developed Latent Dirichlet Allocation models and visualization with time-series data
+            - Topic Modeling and Keyword Clustering with Scientific Articles to Detect Trends in IT Topics
+            - Text preprocessing, developed Latent Dirichlet Allocation models and visualization with time-series data
 
 publications:
     title: Publications
