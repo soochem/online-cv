@@ -76,7 +76,7 @@ education:
 experiences:
     - role: Software engineer
       time: Jan. 2020 – Present
-      company: Startup Hubs, San Francisco
+      company: SK C&C
       details: |
         - Developed Managing & monitoring services for AI Models
         - Developed kubernetes-based AI platform
@@ -94,7 +94,7 @@ experiences:
         - Published a paper in Environment International (2019. 04)
     - role: Research Assistant
       time: Sep. 2017 – Nov. 2017
-      company: Bio-nanostructure Lab, SKKU
+      company: Bio-nanostructure Lab, Sungkyunkwan University
       details: |
         - Assisted Immunofluorescence Imaging with the techniques of ExM (Expansion Microscopy)
 
@@ -107,9 +107,9 @@ projects:
     assignments:
       - title: "IT Trend Analysis using Topic Modeling and Clustering"
         # link: ""
-        tagline: |
-            - Topic Modeling and Keyword Clustering with Scientific Articles to Detect Trends in IT Topics
-            - Text preprocessing, developed Latent Dirichlet Allocation models and visualization with time-series data
+        details: |
+          - Topic Modeling and Keyword Clustering with Scientific Articles to Detect Trends in IT Topics
+          - Text preprocessing, developed Latent Dirichlet Allocation models and visualization with time-series data
 
 publications:
     title: Publications
